@@ -9,3 +9,4 @@ for key, value in freq.items():
     if value > len(nums)/2:
         print("Majority Element:",key)
         
+        
